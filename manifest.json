@@ -1,0 +1,50 @@
+{
+ "name": "ZeistManga",
+ "short_name": "ZeistManga",
+ "description": "ZeistManga merupakan situs baca komik dan novel online dengan koleksi terlengkap dan terupdate. Kamu bisa membaca ribuan koleksi komik/novel yang kami update setiap hari secara gratis. Memiliki desain yang responsif dan modern, website ini adalah tempat terbaik untuk kalian yang ingin Baca Manga terbaru, Manhwa (komik Korea) dan Manhua (komik China).",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "#ff0000",
+ "start_url": "https://www.zeistmanga.online",
+ "background_color": "#ff0000",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "Septiawan",
+ "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTTdpx1dZsA9EoUpvz9paE8z6KTzBn4qGO4QlX3EGhf6kH1Y3GM8_mKOT0SLCxYsAg-_fFT8Foje6tobq0kVA0dwhli459VDCaCXYhVj7RGvgCR-34XONa9YFBf6AOofmf05FVu9ahbswhYN8Pai5QkyGg9cqfl4T0QF5M2clLbTbiRa1T33mefLRVyQ/s1600/36%C3%9736.jpg",
+    "sizes": "36x36",
+    "type": "image/jpg",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS3eME9bjD9tWTs_4SLrO1XlfhQst0zFeBjBL7KDSELndAWjVGYvq1NVzAO_HKcsiaNqVhlVJVL0XaOA6BsOV9hS-cPWOJqTmzj6_Db8_ywSc4Beflhkm_ZoaanaOAffYCY3PUynvZZr08q-CCwd-I84ACEDPkKOD8wkJmJFLkkFLiZBWFF68m_jlUXA/s1600/48%C3%9748.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS0mRl9pIBrHPlTREfT2uvi_2x5Rp3Dj3FLr8-f5emwqSlr5wfO4D34lqH9IBG8gog-2qafa5Sn8cVu9KuZyQTh-BJu1vL9nBIih5Hon3mdJYhBjFK4KUyHaPofBmt0qEwHPzGrh4dvsexcNI5XhlwaGupu0QWAN4dyRQkkBZwx4FSQ4KYGYo5dzdHhw/s1600/72%C3%9772.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq6K0GeB2rBCI02Fr_7YY9tPQBWsFtdAo2mAZm68KHJ6h2eiDBRT3fvEx_nt0E_O90xa0D8XEso6cVW7i_CmCqMKwCdV3wX3Wy4P-pl1OAyURtSoXntHRd2btkFbYEHdjrOJGoKdiJxZcfv3cJGAcmYEyN99tEkTR8CjqGHwaX6jnC22yZKQOOAjl8Jg/s1600/96%C3%9796.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib7QUZZHnDeHTkazIKVv-2v9RjxyNz57lQz94roVZo5XE8GfXVidHOAB3yvKwSwkaeUyLg1SlU6-1dMPR6HXIB_D8aAMy2t_ckb_Dc_CNM-TA3SXSAFkcT9xQwpvPLx48-dhIWE6T_frQHTJbk1CjNIolegPDGsHyZeZDPuHmdOM6FpRQHNMFXn9pPXg/s1600/144%C3%97144.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRasNSeyk0DV76VQVw16Ao5FYdFXaWu_v3_lQs2nJ4YYz7YUieIko2uN5j8w-vTNh1jbAejo-SMu52cbWB1OsphABBADs_ynt-IDtw-RYTDtz2yBI3S69F3KiFBGS2bebBAHmzA3GVSS9AZgpTC4Yn5VzD9Dwy55-T1rP9AKchq5cx5THd-c5X6wyH_A/s1600/192%C3%97192.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSuCHF2a1OcDiOw4XuXBvJCcLpCQEsl0ov3ZsCgMQRRIcogHSgXRZo21T_hJP9DlRA-2r_I7pyDTYHuFNSaoThxOf4vADY6z5RKHksfo7SVEGGc2AUFbhhFbeI5vUVES-cRfxfcUFO4qYUEpUz6gcCyDIRobpc3fqCfm33lWpH9v5rpSuYUgPMbC49A/s1600/512%C3%97512.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg",
+    "density": "5.0"
+  }]
+}
